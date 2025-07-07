@@ -1,7 +1,8 @@
 <h1 align="center">Hey there! I'm Subhan 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F38CAC&center=true&vCenter=true&width=450&lines=Full-Stack+Developer+(MERN);React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Learning+Rust+and+WebAssembly;Let's+build+awesome+stuff+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F38CAC&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Freelancer;Open+Source+Contributor;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SubhanAlom009&color=F38CAC&style=flat-square" alt="Profile views" />
