@@ -116,14 +116,6 @@ I'm a **Full Stack Developer** specializing in building responsive, scalable, an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SubhanAlom009&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanAlom009&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanAlom009&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
 </p>
 
