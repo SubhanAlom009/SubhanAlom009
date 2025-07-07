@@ -23,10 +23,6 @@ I'm a **Full Stack Developer** specializing in building responsive, scalable, an
 
 ---
 
-### 🛠️ My Tech Stack
-
----
-
 ### 🛠️ Tech Stack
 
 #### 🧩 Frontend
@@ -76,10 +72,6 @@ I'm a **Full Stack Developer** specializing in building responsive, scalable, an
 | 🤖 **AI Career Coach** | Resume, cover letter, interview prep via Gemini AI | Next.js, Clerk, Prisma, Tailwind | [Live](https://github.com/SubhanAlom009/AI-Career-Coach) |
 | 💰 **Expense Tracker** | Real-time expense app with dynamic categories | Next.js, PostgreSQL, Tailwind | [Live](https://github.com/SubhanAlom009/Expense-Tracker-App) |
 | 🚗 **Uber Clone** | Real-time ride booking + map routes | MERN, Tailwind, Socket.IO | [Live](https://github.com/SubhanAlom009/uber-clone-Full-Stack) |
-
----
-
-### 🌐 Connect With Me
 
 ---
 
