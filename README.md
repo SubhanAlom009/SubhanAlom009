@@ -76,15 +76,27 @@ I'm a **Full Stack Developer** focused on crafting performant, clean, and scalab
   <a href="https://subhanalom.live" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-subhanalom.live-F38CAC?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/SubhanAlom009" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SubhanAlom009-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://linkedin.com/in/subhanalom" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-SubhanAlom009-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://x.com/BreathSubhan" target="_blank">
     <img src="https://img.shields.io/badge/X-BreathSubhan-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+</p>
+
+<p align="left">
   <a href="mailto:subhanalombasic123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-subhanalombasic123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
