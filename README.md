@@ -62,7 +62,7 @@ I'm a **Full Stack Developer** focused on crafting performant, clean, and scalab
 
 | 🚀 Project | 🌟 Description | 🛠 Tech Stack | 🔗 Links |
 |-----------|----------------|---------------|----------|
-| 🎓 **PeerMatch** | Peer-to-peer matching platform for students/professionals based on skills, college, year & availability. Features auth, profile onboarding, smart matching, and real-time connections. | Next.js 14, Prisma, PostgreSQL, Tailwind, NextAuth | [Repo](https://github.com/SubhanAlom009/PeerMatch) |
+| 🎓 **PeerMatch** | Peer-to-peer matching platform for students/professionals based on skills, college, year & availability. Features auth, profile onboarding, smart matching, and real-time connections. | Next.js 14, Prisma, PostgreSQL, Tailwind, NextAuth | [Repo](https://github.com/SubhanAlom009/peer-match) |
 | 🤖 **AI Career Coach** | Resume building, cover letter generation & interview prep via Gemini AI. Auth + dashboard. | Next.js, Prisma, Clerk, Tailwind | [Repo](https://github.com/SubhanAlom009/AI-Career-Coach) |
 | 📄 **Concise AI** | AI PDF summarizer using OpenAI, Gemini & LangChain. Includes dashboard and file management. | Next.js, Tailwind, Prisma, LangChain | [Repo](https://github.com/SubhanAlom009/ConciseAI) |
 | 💰 **Expense Tracker** | Real-time tracking app with analytics and categories. | Next.js, PostgreSQL, Prisma, Tailwind | [Repo](https://github.com/SubhanAlom009/Expense-Tracker-App) |
