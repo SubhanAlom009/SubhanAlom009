@@ -101,6 +101,13 @@ I'm a **Full Stack Developer** focused on crafting performant, clean, and scalab
     <img src="https://img.shields.io/badge/Gmail-subhanalombasic123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<a
+  href="mailto:subhanalom009@gmail.com"
+  className="inline-block px-6 py-2 bg-red-600 text-white rounded-xl shadow hover:bg-red-700 transition"
+>
+  Hire Me
+</a>
+
 
 ---
 
