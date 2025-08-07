@@ -116,6 +116,11 @@ I'm a **Full Stack Developer** focused on crafting performant, clean, and scalab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanAlom009&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SubhanAlom009&theme=gruvbox&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+
 ---
 
 🌸 _Thanks for stopping by! Feel free to explore my projects or get in touch._
